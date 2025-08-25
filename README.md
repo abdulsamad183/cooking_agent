@@ -20,7 +20,7 @@ If the provided ingredients are not sufficient, the agent recommends **additiona
 ```bash
 git clone https://github.com/abdulsamad183/cooking_agent.git
 cd cooking_agent
-
+```
 
 ### 2️⃣ Create a Virtual Environment (optional but recommended)
 ```bash
@@ -44,5 +44,19 @@ OPENAI_API_KEY=your_api_key_here
 ```bash
 python app.py
 ```
-
 ---
+## 💡 Contributing
+
+We welcome contributions from everyone! Whether it's fixing a bug, improving documentation, or adding a new feature — your help makes this project better.
+
+### 🐛 Reporting Issues
+If you discover a bug or have a suggestion, please [open an issue](../../issues) and describe it clearly.
+
+### ✨ Feature Requests
+Got an idea to make this project more awesome? Share your thoughts in the issues section and let's discuss!
+
+### 📦 Pull Requests
+- Fork the repository
+- Create a new branch for your feature/fix
+- Commit your changes with a clear message
+- Open a Pull Request and describe your changes
