@@ -1,4 +1,4 @@
-# 🥘 AI Recipe Assistant (Agentic AI)
+# 🥘 AI Recipe Assistant
 
 This project is an **Agentic AI system** built with LangGraph and OpenAI that takes an **image of ingredients**, extracts them using AI, and suggests possible recipes.  
 If the provided ingredients are not sufficient, the agent recommends **additional ingredients** to complete the recipe.  
